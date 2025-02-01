@@ -1,5 +1,5 @@
 public class Esercizio6 {
-    public int numero;
+    int numero;
 
      public Esercizio6 (int numero){
          this.numero=numero;
