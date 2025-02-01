@@ -1,6 +1,5 @@
 
-
-public class Esercizio1 {
+public class mainClassEx1 {
     public static void main(String[] args) {
         
         int cnt=0; // variabile in qui conto quanti numeri primi ho stampato, +1 per ogni nuovo numero primo trovato
